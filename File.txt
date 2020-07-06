@@ -1,0 +1,5 @@
+asd,location1,11-05-2020,1,footage1.mp4
+def,newloc,02-05-3920,5,footage2.mp4
+erth,newloc,01-01-200,66,gh
+qewr,111111111,01-01-2000,123,qwer
+weqrq,aaaa,01-02-2000,12,qwer
